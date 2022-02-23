@@ -94,7 +94,4 @@ def enumSite(links, url):
     
     
 
-
-testvar = enumSite(allLinks, url)
-
-print(testvar)
+print(getInputField(url))
